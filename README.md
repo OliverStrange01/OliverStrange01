@@ -13,6 +13,9 @@
 - potential personal project
 - website ideas.
 
+## Links
+- https://www.linkedin.com/in/oliver-strange-42a685292/ 
+
 <!--
 **OliverStrange01/OliverStrange01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
