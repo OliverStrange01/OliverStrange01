@@ -1,5 +1,17 @@
-## About ME
-�
+## About Me
+- Manchester
+- Software Engineer
+- @Manchester Metropolitan Uni
+
+## Interests
+- Coding
+- Football
+- music
+
+## Stuff Im working on
+- uni assignments
+- potential personal project
+- website ideas.
 
 <!--
 **OliverStrange01/OliverStrange01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
